@@ -1,6 +1,5 @@
 # Event_Registration
-java project
+JAVA PROJECT
 #
-Don Dominic
-#
-VML24CS094
+# Don Dominic
+# VML24CS094
